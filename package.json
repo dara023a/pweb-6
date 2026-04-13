@@ -1,0 +1,20 @@
+{
+  "name": "pemweb-0413",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.14",
+    "@hono/oauth-providers": "^0.8.5",
+    "dotenv": "^17.4.2",
+    "hono": "^4.12.12",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.22.0"
+  }
+}
