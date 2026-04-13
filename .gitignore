@@ -1,0 +1,14 @@
+# Mengabaikan file dengan ekstensi tertentu
+*.log
+*.tmp
+
+# Mengabaikan folder tertentu
+node_modules/
+dist/
+
+# Mengabaikan file rahasia
+.env
+
+# Mengabaikan file sistem operasi
+.DS_Store
+Thumbs.db
